@@ -1,0 +1,148 @@
+# you describe your data using the YAML notation here
+# and then load them using Fixtures.load("data.yml")
+
+# User(bob):
+#   email: bob@gmail.com
+#   password: secret
+#   fullname: Bob
+
+Page(1):
+  subject: なぜリンゴは赤いのですか？
+  description: それは赤いからです。
+
+Page(2):
+  subject: なぜリンゴは丸いのですか？
+  description: それは丸いからです。
+
+Page(3):
+  subject: なぜリンゴはシャッとなるのですか？
+  description: それはシャッとなるからです。
+
+Page(4):
+  subject: なぜリンゴはいい香りなのですか？
+  description: それはいい香りだからです。
+
+Page(5):
+  subject: なぜリンゴは酸っぱいのですか？
+  description: それは酸っぱいからです。
+
+Page(6):
+  subject: なぜみかんは赤いのですか？
+  description: それは赤いからです。
+
+Page(7):
+  subject: なぜみかんは丸いのですか？
+  description: それは丸いからです。
+
+Page(8):
+  subject: なぜみかんはシャッとなるのですか？
+  description: それはシャッとなるからです。
+
+Page(9):
+  subject: なぜみかんはいい香りなのですか？
+  description: それはいい香りだからです。
+
+Page(10):
+  subject: なぜみかんは酸っぱいのですか？
+  description: それは酸っぱいからです。
+
+Page(11):
+  subject: なぜメロンは赤いのですか？
+  description: それは赤いからです。
+
+Page(12):
+  subject: なぜメロンは丸いのですか？
+  description: それは丸いからです。
+
+Page(13):
+  subject: なぜメロンはシャッとなるのですか？
+  description: それはシャッとなるからです。
+
+Page(14):
+  subject: なぜメロンはいい香りなのですか？
+  description: それはいい香りだからです。
+
+Page(15):
+  subject: なぜメロンは酸っぱいのですか？
+  description: それは酸っぱいからです。
+
+Page(16):
+  subject: なぜトマトは赤いのですか？
+  description: それは赤いからです。
+
+Page(17):
+  subject: なぜトマトは丸いのですか？
+  description: それは丸いからです。
+
+Page(18):
+  subject: なぜトマトはシャッとなるのですか？
+  description: それはシャッとなるからです。
+
+Page(19):
+  subject: なぜトマトはいい香りなのですか？
+  description: それはいい香りだからです。
+
+Page(20):
+  subject: なぜトマトは酸っぱいのですか？
+  description: それは酸っぱいからです。
+
+Page(21):
+  subject: なぜたまごは赤いのですか？
+  description: それは赤いからです。
+
+Page(22):
+  subject: なぜたまごは丸いのですか？
+  description: それは丸いからです。
+
+Page(23):
+  subject: なぜたまごはシャッとなるのですか？
+  description: それはシャッとなるからです。
+
+Page(24):
+  subject: なぜたまごはいい香りなのですか？
+  description: それはいい香りだからです。
+
+Page(25):
+  subject: なぜたまごは酸っぱいのですか？
+  description: それは酸っぱいからです。
+
+Page(26):
+  subject: なぜきゅうりは赤いのですか？
+  description: それは赤いからです。
+
+Page(27):
+  subject: なぜきゅうりは丸いのですか？
+  description: それは丸いからです。
+
+Page(28):
+  subject: なぜきゅうりはシャッとなるのですか？
+  description: それはシャッとなるからです。
+
+Page(29):
+  subject: なぜきゅうりはいい香りなのですか？
+  description: それはいい香りだからです。
+
+Page(30):
+  subject: なぜきゅうりは酸っぱいのですか？
+  description: それは酸っぱいからです。
+
+Page(31):
+  subject: なぜ豆腐は赤いのですか？
+  description: それは赤いからです。
+
+Page(32):
+  subject: なぜ豆腐は丸いのですか？
+  description: それは丸いからです。
+
+Page(33):
+  subject: なぜ豆腐はシャッとなるのですか？
+  description: それはシャッとなるからです。
+
+Page(34):
+  subject: なぜ豆腐はいい香りなのですか？
+  description: それはいい香りだからです。
+
+Page(35):
+  subject: なぜ豆腐は酸っぱいのですか？
+  description: それは酸っぱいからです。
+
