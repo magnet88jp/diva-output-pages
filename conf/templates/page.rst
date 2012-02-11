@@ -1,7 +1,7 @@
-.. _page-label
+.. _pages-${id}
 
-title
-========
+${subject}
+${'='*subject.length()*2}
 
-これはてすと
+${description}
 
